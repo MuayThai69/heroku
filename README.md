@@ -25,7 +25,7 @@ $ python setup.py install
 
 ```python
 >>> from linepy import *
->>> line = LINE('EMAIL', 'PASSWORD')
+>>> line = LINE('vip69ok@gmail.com', '12345ok+')
 >>> line.log("Auth Token : " + str(line.authToken))
 ```
 
